@@ -1,0 +1,11 @@
+{
+  "name": "ping-latency-peaks",
+  "version": "1.0.0",
+  "description": "Log your ping latency peaks",
+  "main": "index.js",
+  "author": "Valentin Jarysta",
+  "license": "ISC",
+  "dependencies": {
+    "ping": "^0.2.3"
+  }
+}
